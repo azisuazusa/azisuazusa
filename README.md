@@ -7,11 +7,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [https://sourcerer.io/azisuazusa](https://sourcerer.io/azisuazusa)
 - :clock12: Wakatime:
+<p align="center">
+<img src="https://wakatime.com/share/@1a6e674d-4657-45bb-9aad-8fd05a736fed/d173a98d-2421-4688-9607-382bd7ec84c9.svg" height="500px" width="500px"/>
+</p>
+<p align="center">
+<img src="https://wakatime.com/share/@1a6e674d-4657-45bb-9aad-8fd05a736fed/81a356fc-e37d-41c7-a372-c45efff8b268.svg" height="500px" width="500px"/>
+</p>
 
-<div>
-  <img src="https://wakatime.com/share/@1a6e674d-4657-45bb-9aad-8fd05a736fed/d173a98d-2421-4688-9607-382bd7ec84c9.svg" height="450px" width="450px"/>
-  <img src="https://wakatime.com/share/@1a6e674d-4657-45bb-9aad-8fd05a736fed/81a356fc-e37d-41c7-a372-c45efff8b268.svg" height="450px" width="450px"/>
-</div>
 <!--
 **azisuazusa/azisuazusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
