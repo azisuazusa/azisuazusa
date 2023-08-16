@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Azis
 
-- Currently working as a backend engineer during the day and an android engineer at the night
+- Currently working focus on Backend Engineering
 - Reach me at: [LinkedIn](https://www.linkedin.com/in/azisuazusa/) or Email: azis.abdul.bachar@gmail.com
 - Wakatime:
 <p align="center">
