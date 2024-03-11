@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Azis
 
-- Currently working focus on Backend Engineering
+- Currently focus on Backend Engineering
 - Reach me at: [LinkedIn](https://www.linkedin.com/in/azisuazusa/) or Email: azis.abdul.bachar@gmail.com
 - Wakatime:
 <p align="center">
